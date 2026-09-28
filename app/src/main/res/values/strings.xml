@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aura Assistant</string>
+    <string name="assistant_title">Aura</string>
+    <string name="assistant_subtitle">Personal AI &amp; Device Assistant</string>
+    <string name="status_ready">Ready for command</string>
+    <string name="status_listening">Listening...</string>
+    <string name="status_thinking">Processing...</string>
+    <string name="status_speaking">Speaking...</string>
+</resources>
